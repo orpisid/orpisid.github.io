@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orpisid.github.io/sitemap.html.gz
+Sitemap: https://orpisid.github.io/app/sitemap.html.gz
+Sitemap: https://orpisid.github.io/assets/sitemap.html.gz
+Sitemap: https://orpisid.github.io/css/sitemap.html.gz
+Sitemap: https://orpisid.github.io/includes/sitemap.html.gz
+Sitemap: https://orpisid.github.io/item/sitemap.html.gz
+Sitemap: https://orpisid.github.io/src/sitemap.html.gz
